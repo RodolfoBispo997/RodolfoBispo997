@@ -3,7 +3,7 @@
 <h3 align="center">Backend Developer | Node.js | NestJS | SaaS</h3>
 
 <p align="center">
-  Brazil 🇧🇷 • Former PHP Developer • Focused on backend, architecture, and SaaS products
+  <img src="https://flagcdn.com/br.svg" width="20"/> Brazil • Former PHP Developer • Focused on backend, architecture, and SaaS products
 </p>
 
 <p align="center">
