@@ -1,4 +1,4 @@
 # Hi 👋, I'm Rodolfo
 
-🚀 **Pleno Software Enginner Node.js & PHP**
-:flag_br:
+🚀 **Pleno Software Engineer Node.js & PHP**
+<img src="https://flagcdn.com/br.svg" width="20"/>
