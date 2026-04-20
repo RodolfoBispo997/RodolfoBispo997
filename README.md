@@ -3,12 +3,8 @@
 <h3 align="center">Backend Developer | Node.js | NestJS | SaaS</h3>
 
 <p align="center">
-  Brazil 🇧🇷 • Ex-PHP Pleno • Focused on backend, architecture, and SaaS products
+  Brazil 🇧🇷 • Former PHP Developer • Focused on backend, architecture, and SaaS products
 </p>
-
----
-
-### Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodolfo-bispo/">
@@ -29,17 +25,17 @@
 
 ### About me
 
-I build backend systems with a strong focus on **business logic, maintainability, and real product delivery**.
+I build backend systems with a strong focus on business logic, maintainability, and product delivery.
 
 My background includes:
-- **SaaS systems**
-- **legacy refactoring**
-- **database-driven applications**
-- **backend, frontend, and database collaboration**
-- **agile workflow improvements**
-- **transition from PHP to Node.js / NestJS**
+- SaaS systems
+- legacy refactoring
+- database-driven applications
+- backend, frontend, and database collaboration
+- agile workflow improvements
+- transition from PHP to Node.js / NestJS
 
-I worked on a real SaaS product for **database monitoring and management**, where I contributed across the stack and helped in the transition from a legacy approach to a more modern architecture.
+I worked on a real SaaS product for database monitoring and management, contributing across the stack and helping move the system toward a more modern architecture.
 
 ---
 
@@ -48,7 +44,7 @@ I worked on a real SaaS product for **database monitoring and management**, wher
 - Turning raw data into useful information
 - Refactoring and modernizing legacy systems
 - Building APIs and backend workflows
-- Working with business rules that matter in real products
+- Working with real business rules
 - Delivering consistent solutions with clear technical direction
 
 ---
@@ -56,10 +52,11 @@ I worked on a real SaaS product for **database monitoring and management**, wher
 ### Featured experience
 
 #### dbsnOOp — Database Monitoring SaaS
-- Real SaaS product for database monitoring and management
+A real SaaS product for database monitoring and management.
+
 - Started as intern, then PHP I and PHP II
 - Worked on front-end, back-end, and database layers
-- Contributed to the transition from waterfall to Scrum / Kanban
+- Contributed to the transition from Waterfall to Scrum / Kanban
 - Helped manage backlog using ClickUp
 - Worked with:
   - PHP
@@ -81,7 +78,7 @@ I worked on a real SaaS product for **database monitoring and management**, wher
   - Redis cache
   - JWT
   - Docker
-  - Middleware
+  - middleware
 
 ---
 
@@ -89,11 +86,11 @@ I worked on a real SaaS product for **database monitoring and management**, wher
 
 I’m currently repositioning my career toward:
 
-- **Node.js backend development**
-- **NestJS**
-- **SaaS products**
-- **scalable APIs**
-- **clean and maintainable architecture**
+- Node.js backend development
+- NestJS
+- SaaS products
+- scalable APIs
+- clean and maintainable architecture
 
 ---
 
@@ -124,6 +121,23 @@ A new project in progress focused on:
 - authentication
 - clean architecture
 - visual presentation
+
+---
+
+### Visual focus
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=180&section=header" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RodolfoBispo997&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoBispo997&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodolfoBispo997&theme=tokyonight" />
+</p>
 
 ---
 
@@ -159,27 +173,23 @@ A new project in progress focused on:
 
 ---
 
-### GitHub stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RodolfoBispo997&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoBispo997&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### Visual focus
+### Contact
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=180&section=footer" />
+  <a href="https://www.linkedin.com/in/rodolfo-bispo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/RodolfoBispo997">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rodolfobispo997@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/rodolfo_andrade97/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
----
-
-### Philosophy
-
-> Code is not just about writing features.  
-> It is about building reliable systems that solve real business problems.
-
----
-
+<p align="center">
+  Code is not just about writing features. It is about building reliable systems that solve real business problems.
+</p>
