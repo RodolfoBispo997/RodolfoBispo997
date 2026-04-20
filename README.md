@@ -22,6 +22,98 @@
 </p>
 
 ---
+
+### About me
+
+I build backend systems with a strong focus on business logic, maintainability, and product delivery.
+
+My background combines SaaS systems, legacy refactoring, database-driven applications, and collaboration across backend, frontend, and database layers. I am currently repositioning my career toward Node.js and NestJS, with a clear focus on scalable APIs and clean architecture.
+
+---
+
+### Featured experience
+
+#### dbsnOOp — Database Monitoring SaaS
+A real SaaS product for database monitoring and management.
+
+- Started as intern, then PHP I and PHP II
+- Worked on front-end, back-end, and database layers
+- Contributed to the transition from Waterfall to Scrum / Kanban
+- Helped manage backlog using ClickUp
+- Worked with:
+  - PHP
+  - JavaScript
+  - Vue.js
+  - Nuxt.js
+  - Twig
+  - Ajax
+  - jQuery
+  - API integrations
+  - Docker
+  - MySQL
+- Participated in the migration from legacy PHP 5 to a more modern stack with:
+  - Symfony
+  - REST API
+  - Entities
+  - async functions
+  - workers
+  - Redis cache
+  - JWT
+  - Docker
+  - middleware
+
+---
+
+### What I bring
+
+- Turning raw data into useful information
+- Refactoring and modernizing legacy systems
+- Building APIs and backend workflows
+- Working with real business rules
+- Delivering consistent solutions with clear technical direction
+
+---
+
+### Current focus
+
+I’m currently focused on:
+
+- Node.js backend development
+- NestJS
+- SaaS products
+- scalable APIs
+- clean and maintainable architecture
+
+---
+
+### Projects
+
+#### [saas-backend-gestao-financeira](https://github.com/RodolfoBispo997/saas-backend-gestao-financeira)
+Backend for a financial management SaaS built with:
+- Node.js
+- TypeScript
+- Prisma
+- PostgreSQL
+- DDD
+- Clean Architecture
+
+#### [Gerenciador-Tarefas](https://github.com/RodolfoBispo997/Gerenciador-Tarefas)
+Task manager project built with:
+- PHP
+- Laravel
+- Vue.js
+- Sanctum
+- dashboard-oriented interface
+
+#### NestJS Task Manager
+A work in progress focused on:
+- NestJS
+- backend structure
+- task management flows
+- authentication
+- clean architecture
+- visual presentation
+
 ---
 
 ### Visual focus
@@ -70,108 +162,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
 </p>
-
----
----
-
-### About me
-
-I build backend systems with a strong focus on business logic, maintainability, and product delivery.
-
-My background includes:
-- SaaS systems
-- legacy refactoring
-- database-driven applications
-- backend, frontend, and database collaboration
-- agile workflow improvements
-- transition from PHP to Node.js / NestJS
-
-I worked on a real SaaS product for database monitoring and management, contributing across the stack and helping move the system toward a more modern architecture.
-
----
-
-### What I bring
-
-- Turning raw data into useful information
-- Refactoring and modernizing legacy systems
-- Building APIs and backend workflows
-- Working with real business rules
-- Delivering consistent solutions with clear technical direction
-
----
-
-### Featured experience
-
-#### dbsnOOp — Database Monitoring SaaS
-A real SaaS product for database monitoring and management.
-
-- Started as intern, then PHP I and PHP II
-- Worked on front-end, back-end, and database layers
-- Contributed to the transition from Waterfall to Scrum / Kanban
-- Helped manage backlog using ClickUp
-- Worked with:
-  - PHP
-  - JavaScript
-  - Vue.js
-  - Nuxt.js
-  - Twig
-  - Ajax
-  - jQuery
-  - API integrations
-  - Docker
-  - MySQL
-- Participated in the migration from legacy PHP 5 to a more modern stack with:
-  - Symfony
-  - REST API
-  - Entities
-  - async functions
-  - workers
-  - Redis cache
-  - JWT
-  - Docker
-  - middleware
-
----
-
-### Current focus
-
-I’m currently repositioning my career toward:
-
-- Node.js backend development
-- NestJS
-- SaaS products
-- scalable APIs
-- clean and maintainable architecture
-
----
-
-### Projects
-
-#### [saas-backend-gestao-financeira](https://github.com/RodolfoBispo997/saas-backend-gestao-financeira)
-Backend for a financial management SaaS built with:
-- Node.js
-- TypeScript
-- Prisma
-- PostgreSQL
-- DDD
-- Clean Architecture
-
-#### [Gerenciador-Tarefas](https://github.com/RodolfoBispo997/Gerenciador-Tarefas)
-Task manager project built with:
-- PHP
-- Laravel
-- Vue.js
-- Sanctum
-- dashboard-oriented interface
-
-#### NestJS Task Manager
-A new project in progress focused on:
-- NestJS
-- backend structure
-- task management flows
-- authentication
-- clean architecture
-- visual presentation
 
 ---
 
